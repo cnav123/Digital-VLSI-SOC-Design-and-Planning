@@ -1,7 +1,7 @@
 # Digital-VLSI-SOC-Design-and-Planning
 
 
-## Intro
+## Introduction
 Welcome to the "Digital VLSI SoC Design and Planning" course. 
 
 In the Following Repo You will Get some clear fundamental and advanced concepts of integrated circuit design, guiding you through the crucial Place and Route (PnR) process to transform an RTL netlist into a final IC ready for tape-out. 
