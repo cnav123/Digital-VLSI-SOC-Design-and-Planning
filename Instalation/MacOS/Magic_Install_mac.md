@@ -141,3 +141,6 @@ Now type
 magic
 ```
 you will get a pop up Window
+<img width="1440" alt="Screenshot 2024-08-03 at 8 56 18 PM" src="https://github.com/user-attachments/assets/7c9dcd5f-5e94-4e7b-bd8b-591ab944c030">
+
+
