@@ -16,12 +16,12 @@ By engaging with Electronic Design Automation (EDA) tools, you'll be able to con
 
 ## Overview
 
-1. Day 1 :- Inception of Open-Source EDA, OpenLANE and Sky130 PDK
-2. Day 2 :- Good FloorPlan vs Bad Floorplan
-            Introduction to Library Cells
-3. Day 3 :- Design Library cell using Magic Layout and ngspice characterization
-4. Day 4 :- Pre-Layout Timing Analysis and Importance of clock tree
-5. Day 5 :- Final steps for RTL2GDS using tritonRoute and openSTA
+Day 1 :- Inception of Open-Source EDA, OpenLANE and Sky130 PDK
+Day 2 :- Good FloorPlan vs Bad Floorplan
+         Introduction to Library Cells
+Day 3 :- Design Library cell using Magic Layout and ngspice characterization
+Day 4 :- Pre-Layout Timing Analysis and Importance of clock tree
+Day 5 :- Final steps for RTL2GDS using tritonRoute and openSTA
 
 ## Tools 
 
@@ -33,10 +33,10 @@ https://openlane.readthedocs.io/en/latest/index.html
 
 This Instalation is Setup For MAC OS (MacBook Air M1)
 Whoese Evere is Refering Please Use only for MAC OS or Refer The Doucment and copressed File
-For MAC os , Clear Installation Steps for The 
-OpenLane Instalation
-Magic Tool instalation
-xquartz Instalation
-ngspice Instalation
+For MAC os , Clear Installation tools are 
+1. OpenLane Instalation
+2. Magic Tool instalation
+3. xquartz Instalation
+4. ngspice Instalation
 
 Some Important Directories Required for The Labs Shown Here.
