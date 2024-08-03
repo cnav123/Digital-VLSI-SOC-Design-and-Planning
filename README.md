@@ -16,12 +16,16 @@ By engaging with Electronic Design Automation (EDA) tools, you'll be able to con
 
 ## Overview
 
-Day 1 :- Inception of Open-Source EDA, OpenLANE and Sky130 PDK
+Day 1 :- Inception of Open-Source EDA, OpenLANE and Sky130 PDK.
+
 Day 2 :- Good FloorPlan vs Bad Floorplan
-         Introduction to Library Cells
-Day 3 :- Design Library cell using Magic Layout and ngspice characterization
-Day 4 :- Pre-Layout Timing Analysis and Importance of clock tree
-Day 5 :- Final steps for RTL2GDS using tritonRoute and openSTA
+         Introduction to Library Cells.
+         
+Day 3 :- Design Library cell using Magic Layout and ngspice characterization.
+
+Day 4 :- Pre-Layout Timing Analysis and Importance of clock tree.
+
+Day 5 :- Final steps for RTL2GDS using tritonRoute and openSTA.
 
 ## Tools 
 
