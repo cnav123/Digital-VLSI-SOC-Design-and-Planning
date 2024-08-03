@@ -6,9 +6,9 @@ https://docs.docker.com/engine/install/
 
 ## Please Follow This Link to Install HomeBrew
 https://brew.sh/
-'''
+'
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-'''
+'
 
 These images include OpenLane’s applications, binaries as well as all the required dependencies.
 
