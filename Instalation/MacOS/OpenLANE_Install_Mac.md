@@ -64,3 +64,12 @@ If all the Installation work succesufully then you will recieve a messages
 ```
 basic test passed
 ```
+
+After instalation Look
+<img width="1334" alt="Screenshot 2024-08-03 at 9 01 58 PM" src="https://github.com/user-attachments/assets/1fc42f6c-01c3-4802-801a-d9797f094999">
+
+After that run the Following Command
+```
+make mount
+```
+<img width="1347" alt="Screenshot 2024-08-03 at 9 00 58 PM" src="https://github.com/user-attachments/assets/56d9ef04-2b43-476e-bb08-956a420368e3">
