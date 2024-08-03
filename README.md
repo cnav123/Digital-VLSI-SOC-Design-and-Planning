@@ -12,14 +12,31 @@ Here there, is detailed walkthrough of the automated RTL2GDSII process, ensuring
 
 By engaging with Electronic Design Automation (EDA) tools, you'll be able to contribute to and benefit from the collective advancements in the field. This course also equips you with practical skills to plan and execute SoC design projects using the cutting-edge 130nm process node, positioning you at the forefront of modern IC design.
 
+
+
+## Overview
+
+1. Day 1 :- Inception of Open-Source EDA, OpenLANE and Sky130 PDK
+2. Day 2 :- Good FloorPlan vs Bad Floorplan
+            Introduction to Library Cells
+3. Day 3 :- Design Library cell using Magic Layout and ngspice characterization
+4. Day 4 :- Pre-Layout Timing Analysis and Importance of clock tree
+5. Day 5 :- Final steps for RTL2GDS using tritonRoute and openSTA
+
 ## Tools 
 
 I will be using OPEN Source EDA tools for the Process names #OpenLane
 here you can fine the Link Regarding the Tool
 https://openlane.readthedocs.io/en/latest/index.html
 
-## Please Refer To The Directory Instalation Folder
+## Installation
 
 This Instalation is Setup For MAC OS (MacBook Air M1)
-
 Whoese Evere is Refering Please Use only for MAC OS or Refer The Doucment and copressed File
+For MAC os , Clear Installation Steps for The 
+OpenLane Instalation
+Magic Tool instalation
+xquartz Instalation
+ngspice Instalation
+
+Some Important Directories Required for The Labs Shown Here.
