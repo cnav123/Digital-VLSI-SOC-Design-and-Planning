@@ -17,3 +17,9 @@ By engaging with Electronic Design Automation (EDA) tools, you'll be able to con
 I will be using OPEN Source EDA tools for the Process names #OpenLane
 here you can fine the Link Regarding the Tool
 https://openlane.readthedocs.io/en/latest/index.html
+
+## Please Refer To The Directory Instalation Folder
+
+This Instalation is Setup For MAC OS (MacBook Air M1)
+
+Whoese Evere is Refering Please Use only for MAC OS or Refer The Doucment and copressed File
