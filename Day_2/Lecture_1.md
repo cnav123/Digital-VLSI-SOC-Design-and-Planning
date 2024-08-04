@@ -1,4 +1,4 @@
-# Chip Floor Planning Considerations
+# Lecture 1 :- Chip Floor Planning Considerations
 
 ## Step 1 :- Define Width and Height of Core and Die
 
