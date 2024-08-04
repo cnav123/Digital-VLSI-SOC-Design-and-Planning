@@ -29,6 +29,9 @@ Day 5 :- Final steps for RTL2GDS using tritonRoute and openSTA.
 
 You can find the Design Related Information the work directory which needs to be copied in the OpenLane/designs/ directory
 
+Here we need to Consider the Following Design 
+# picorv32a
+
 ## Tools 
 
 I will be using OPEN Source EDA tools for the Process names #OpenLane
