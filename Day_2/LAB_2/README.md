@@ -1,5 +1,7 @@
 # LAB 2
 
+Here I am adding the the run Folder
+
 ## Please Give look into the configuration directory, inside the OpenLane Directory
 
 Now open the floorplan.tcl, and have look into the utilization Factors etc..,
