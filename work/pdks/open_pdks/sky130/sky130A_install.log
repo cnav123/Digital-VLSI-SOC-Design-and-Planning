@@ -1,0 +1,38 @@
+Starting SKY130 PDK migration on Mon Jun 28 05:16:11 UTC 2021
+Installing in target directory /home/kunalg123/Desktop/work/tools/openlane_working_dir/pdks/sky130A
+Removing files from target
+Copying staging files to target
+Done.
+Changing local path references from /home/kunalg123/Desktop/work/tools/openlane_working_dir/pdks/open_pdks/sky130/sky130A to /home/kunalg123/Desktop/work/tools/openlane_working_dir/pdks/sky130A
+Part 1:  Tools
+      qflow (8 substitutions)
+Failure to read file /home/kunalg123/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/klayout/sky130A.drc; non-ASCII content.
+Failure to read file /home/kunalg123/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/klayout/sky130A.lydrc; non-ASCII content.
+Failure to read file /home/kunalg123/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/xschem/decred_hash_macro/decred_hash_macro.v; non-ASCII content.
+      xschem (1 substitution)
+      magic (1 substitution)
+      xcircuit (2 substitutions)
+Part 2:  Libraries
+   sky130_osu_sc_t18
+   sky130_fd_sc_ls
+   sky130_fd_sc_hs
+   sky130_fd_sc_ms
+   sky130_fd_pr
+   sky130_fd_sc_hdll
+   sky130_fd_sc_hvl
+      mag (1 substitution)
+      maglef (1 substitution)
+   sky130_sram_macros
+      mag (1 substitution)
+      maglef (1 substitution)
+   sky130_fd_io
+      mag (1 substitution)
+      maglef (1 substitution)
+   sky130_fd_sc_lp
+   sky130_fd_sc_hd
+      mag (1 substitution)
+      maglef (1 substitution)
+   sky130_ml_xx_hd
+Removing temporary files from destination.
+Done with PDK migration.
+Ended SKY130 PDK migration on Mon Jun 28 05:16:23 UTC 2021
