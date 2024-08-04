@@ -58,5 +58,29 @@ From image we can see various Ip's which will be given by Foundary IP
 
 
 
+## Introduction to RISC-V
 
+RISC-V Instruction Set Architecture (ISA)
+
+This a top level View of how we talk to the computer Through Set of Instructions or Assembly Language Program,
+and is converted into Binary level Operations
+
+
+## From Software Application to Hardware
+
+Q1. Important question we are gona answer is How is Software application is run on an Hardware ??
+
+Application Software --> System Software --> Hardware
+
+                                          --------------      --------------------
+Prgramming Language (c, c++,java etc) --> | COMPILER   | -->  | Instruction sets |  --> .exe File
+                                          --------------      --------------------
+                                          
+Now executable File is run into assembler and Converted to Binary
+
+Eg:- 
+
+<img width="1129" alt="Screenshot 2024-08-04 at 2 47 53 PM" src="https://github.com/user-attachments/assets/64f2b04e-f409-4e7b-bb34-1ad6f4e66253">
+
+source :-  VLSI System Design
 
