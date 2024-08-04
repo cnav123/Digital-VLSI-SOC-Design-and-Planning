@@ -1,6 +1,9 @@
 # LAB 1 
 
-Hi 
+Hi Run Data has also been Uploaded 
+
+Only Synthesis Stage is Present
+
 
 ## Basic Introduction
 
