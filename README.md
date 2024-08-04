@@ -27,6 +27,8 @@ Day 4 :- Pre-Layout Timing Analysis and Importance of clock tree.
 
 Day 5 :- Final steps for RTL2GDS using tritonRoute and openSTA.
 
+You can find the Design Related Information the work directory which needs to be copied in the OpenLane/designs/ directory
+
 ## Tools 
 
 I will be using OPEN Source EDA tools for the Process names #OpenLane
@@ -42,5 +44,8 @@ For MAC os , Clear Installation tools are
 2. Magic Tool instalation
 3. xquartz Instalation
 4. ngspice Instalation
+
+Please follow the Following Path to Install the Tools
+https://github.com/cnav123/Digital-VLSI-SOC-Design-and-Planning/tree/26231d0ccd8ceeda2f93e82b9c732cf4bab93ead/Instalation
 
 Some Important Directories Required for The Labs Shown Here.
