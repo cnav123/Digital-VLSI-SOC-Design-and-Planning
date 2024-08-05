@@ -163,9 +163,9 @@ we need 4 parameters that is
 
 2. Fall Transition --> Time taken by the output waveform to fall from 80% to 20% of max value VDD
 
-3. Fall cell Delay --> Propagation Delay when output is Falling
+3. Fall cell Delay --> Propagation Delay when output is Falling (50% of output fall - 50% of input rise)
 
-4. Rise cell Delay --> Propagation delay when output is Rising
+4. Rise cell Delay --> Propagation delay when output is Rising (50% of output rise - 50% of input fall)
 
 
 ### Now we will calculate Rise Transition Delay
@@ -229,3 +229,42 @@ For 0.66v time is = 4.06831ns
 ** Fall Time = 4.06831ns - 4.0405ns = 0.02781ns = 27.81ps(pico sec) **
 
 
+### Now we will calculate the cell rise delay
+
+Propagation delay when output is falling = 50% of the output rise - 50% of input fall
+
+50% of 3.3v = 1.65v
+
+Now here is the Image for the 1.65 of 
+![Screenshot 2024-08-05 at 4 46 51 PM](https://github.com/user-attachments/assets/bd20113c-4f97-4e4e-ae3d-c99b3b88e673)
+
+Here, If we select we get Following values in the ngspice tool
+
+![Screenshot 2024-08-05 at 4 50 02 PM](https://github.com/user-attachments/assets/90f8fbb7-7721-478e-a350-cfa24c073d2c)
+
+50% rise output = 2.18592ns at time = 1.65021
+
+50% fall input = 2.15042ns at time = 1.64979
+
+** cell rise delay = 2.18592ns - 2.15042ns = 0.3552ns = 355.2ps(pico sec) **
+
+### Now we will calculate the Cell Fall Delay 
+
+Propagation delay when output is falling = 50% of the output fall - 50% of input rise
+
+50% of 3.3v = 1.65v
+
+![Screenshot 2024-08-05 at 4 58 42 PM](https://github.com/user-attachments/assets/eddc116c-daf4-4061-b4e5-cb840e869e3a)
+
+
+here is the Screen Shot of the values
+
+![Screenshot 2024-08-05 at 4 57 05 PM](https://github.com/user-attachments/assets/24c1d8a2-70cb-494b-b857-645110bcc46b)
+
+50% of output fall = 4.05518ns at time = 1.65948
+
+50% of input rise = 4.0506 at time = 1.65974
+
+** cell fall delay = 4.05518ns - 4.0506ns = 4.58ps (pico sec) **
+
+Note ;- all this at room temperature 27 degree celcius
