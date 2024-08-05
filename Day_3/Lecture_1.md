@@ -83,6 +83,33 @@ Now for the case where the w/l is different for pmos and nmos
 
 ## Switching Threshold Vm
 
+<img width="1155" alt="Screenshot 2024-08-05 at 7 01 54 AM" src="https://github.com/user-attachments/assets/26528759-9c70-4dbb-bc07-684027d07e96">
+
+source :- VLSI System Design
+
+
+Static behavior Evaluation : CMOS inverter Robustness
+
+1. Switching Threshold, Vm is the point where Vin = Vout
+
+<img width="1106" alt="Screenshot 2024-08-05 at 7 07 04 AM" src="https://github.com/user-attachments/assets/60d580dd-a210-41b6-91f3-c1f693b5c7fa">
+
+Sourece :- VLSI System Dsign
+
+
+Based on the Calculations of
+
+<img width="1162" alt="Screenshot 2024-08-05 at 7 25 22 AM" src="https://github.com/user-attachments/assets/e5f30fb1-da5d-4f8d-be52-db0874c3eddc">
+
+source :- VLSI System Design
+
+
+
+
+
+
+
+
 
 
 
