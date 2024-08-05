@@ -1,0 +1,12 @@
+* SPICE3 file created from sky130_inv.ext - technology: sky130A
+
+.option scale=10n
+
+X0 Y A VGND VGND sky130_fd_pr__nfet_01v8 ad=1.435k pd=152 as=1.365k ps=148 w=3.5e+07 l=2.3e+07
+X1 Y A VPWR VPWR sky130_fd_pr__pfet_01v8 ad=1.443k pd=152 as=1.517k ps=156 w=3.7e+07 l=2.3e+07
+C0 A Y 0.075353f
+C1 VPWR Y 0.11654f
+C2 VPWR A 0.077431f
+C3 Y VGND 0.279009f
+C4 A VGND 0.45021f
+C5 VPWR VGND 0.781009f
