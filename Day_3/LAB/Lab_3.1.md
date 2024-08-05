@@ -268,3 +268,6 @@ here is the Screen Shot of the values
 ** cell fall delay = 4.05518ns - 4.0506ns = 4.58ps (pico sec) **
 
 Note ;- all this at room temperature 27 degree celcius
+
+
+# Now using This Data we will create a lef file and use it in the openlane Project
