@@ -100,7 +100,19 @@ We can observe Lef File
 
 # next task is to integrate in Our Picorv32a Flow
 
+copy the lef into the scr directory of OpenLane
 
+<img width="1126" alt="Screenshot 2024-08-06 at 12 00 30 AM" src="https://github.com/user-attachments/assets/3351f2a6-4f11-49a9-9abf-b1956f33fbfd">
+
+Now basic Idea is Included in the Current Design
+
+now we copy all the design libs to src folder
+
+<img width="1048" alt="Screenshot 2024-08-06 at 12 04 52 AM" src="https://github.com/user-attachments/assets/0739c997-2321-4c42-8361-7f7ad66389bc">
+
+Now modify the config.tcl, based on below modifications
+
+<img width="1158" alt="Screenshot 2024-08-06 at 12 10 53 AM" src="https://github.com/user-attachments/assets/f0551ebf-2b62-485f-b986-129ddb85636d">
 
 
 
