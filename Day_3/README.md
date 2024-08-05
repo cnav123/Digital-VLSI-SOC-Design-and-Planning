@@ -10,4 +10,4 @@ Here we are gonna Learn about the following Concepts.
 
 2. CMOS Fabrication Process
 
-3. Sky130 Tech File Labs
+3. Sky130 Tech File Labs (LABS to Magic tool)
