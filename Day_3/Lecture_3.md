@@ -59,5 +59,5 @@ You will get the Following output
 
 <img width="1440" alt="Screenshot 2024-08-05 at 5 48 38 PM" src="https://github.com/user-attachments/assets/f002f157-1bf4-44d3-bfa3-88fd672531b4">
 
-now open the sky130.tech file to look for the DRC rules
+
 
