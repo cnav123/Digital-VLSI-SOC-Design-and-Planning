@@ -102,3 +102,45 @@ now lets run the cts
 
 Now lets verify the Design
 
+Now type openroad to go to open road terminal, and Read lef
+
+![Screenshot 2024-08-06 at 7 52 58 PM](https://github.com/user-attachments/assets/3ffc6c42-cf61-4278-8394-ceeecec52390)
+
+Read the Def file
+
+![Screenshot 2024-08-06 at 7 54 30 PM](https://github.com/user-attachments/assets/2c5cacea-2084-48c4-ab60-07fd71c3095a)
+
+Write the db file
+
+![Screenshot 2024-08-06 at 7 55 35 PM](https://github.com/user-attachments/assets/09487776-f096-4f14-9697-100c08e98b99)
+
+a db file has been created 
+
+![Screenshot 2024-08-06 at 7 56 08 PM](https://github.com/user-attachments/assets/f65f6904-8a33-4144-8c39-aa78354a5f31)
+
+Now read the verilog file
+
+![Screenshot 2024-08-06 at 7 57 35 PM](https://github.com/user-attachments/assets/fde478e7-f888-4b91-a1f1-25226ea1f53e)
+
+Read the Liberty files
+
+![Screenshot 2024-08-06 at 7 58 28 PM](https://github.com/user-attachments/assets/4e0ec043-3a8e-45f9-bbd2-3323ef3dc50a)
+
+![Screenshot 2024-08-06 at 8 00 39 PM](https://github.com/user-attachments/assets/a0c19e74-8313-474d-9618-b0b01e9a8c4c)
+
+
+Here we can Notice that the there is slack violated
+
+![Screenshot 2024-08-06 at 8 01 21 PM](https://github.com/user-attachments/assets/b0bb091a-6e2c-482d-97bd-c273157ee853)
+
+Exit from open road and load it in db file and run it again
+
+by loading the db file
+
+![Screenshot 2024-08-06 at 8 04 30 PM](https://github.com/user-attachments/assets/f8ccc917-3e4c-4ada-b7fe-619d49608324)
+
+
+
+
+
+
