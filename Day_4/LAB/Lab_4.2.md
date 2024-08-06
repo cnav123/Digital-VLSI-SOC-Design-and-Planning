@@ -86,3 +86,19 @@ Here we can note that all the Slew is met
 ![Screenshot 2024-08-06 at 7 28 54 PM](https://github.com/user-attachments/assets/4190769f-565d-4f62-ac9a-12d9560b6b29)
 
 
+## now Lets Start Working on Clock Tree Synthesis
+
+For running the CTS its will take the Default value, from configuration
+
+<img width="1151" alt="Screenshot 2024-08-06 at 7 42 56 PM" src="https://github.com/user-attachments/assets/59971bc5-8fbe-4083-a947-4f5f4a2c65cf">
+
+source :- VLSI System Design
+
+![Screenshot 2024-08-06 at 7 44 38 PM](https://github.com/user-attachments/assets/f66b7951-3d70-403e-adca-40cf180e7eee)
+
+now lets run the cts
+
+![Screenshot 2024-08-06 at 7 45 49 PM](https://github.com/user-attachments/assets/0944492c-d13d-4c21-b029-0bd9e0058354)
+
+Now lets verify the Design
+
