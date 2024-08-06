@@ -44,6 +44,10 @@ run_synthesis
 
 Now lets Check the Log  files, Wether the custom inverter has been added or not
 
+![Screenshot 2024-08-06 at 6 57 54 PM](https://github.com/user-attachments/assets/2bed7a2f-e823-4b3f-ad71-7c6382ae48df)
+
+
+Here we can notice that 145 cells have been added with custom name
 
 
 
