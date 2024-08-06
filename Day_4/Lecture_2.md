@@ -50,4 +50,61 @@ source :- VLSI System Design
 source:- VLSI System Design
 
 
+## Clock Tree Synthesis
+
+<img width="729" alt="Screenshot 2024-08-06 at 11 19 09 AM" src="https://github.com/user-attachments/assets/6c88c78a-264c-443d-b5a6-2f24efc94c15">
+
+source :- VLSI System Design
+
+
+Here we can see that clock is going to both the Flip Flops, FF1 recives clock faster than the FF2.
+
+Here we can now Understand What is meant by ** Skew **
+Ideally Skew must be "0"
+
+<img width="1067" alt="Screenshot 2024-08-06 at 11 20 38 AM" src="https://github.com/user-attachments/assets/46b60b08-b42c-49fa-8401-f87522fe13be">
+
+source :- VLSI System Design
+
+
+### CTS H-Tree
+
+From the Below Image we can see how H-Tree is Implemented
+
+<img width="785" alt="Screenshot 2024-08-06 at 11 23 23 AM" src="https://github.com/user-attachments/assets/614a28c1-cecf-41c9-aa62-d03a3e2422db">
+
+source :- VLSI System Design
+
+Now Repeaters are added to the tree
+
+** Note :- Repeaters have same rise and fall time **
+
+<img width="988" alt="Screenshot 2024-08-06 at 11 25 27 AM" src="https://github.com/user-attachments/assets/6a79c98f-41c1-49b2-a876-59ec971a22f5">
+
+source :- VLSI System Design
+
+
+## Clock Net Shielding
+
+Because clock net is a critical net, to avoid the cross talk and shield and protect it from outside world
+
+<img width="972" alt="Screenshot 2024-08-06 at 11 27 13 AM" src="https://github.com/user-attachments/assets/3bc63c15-44d0-4713-95b6-f13ea56542b0">
+
+source :- VLSI System Design
+
+
+### Impact of crosstalk Delta Delay - Skew
+
+<img width="1416" alt="Screenshot 2024-08-06 at 11 28 57 AM" src="https://github.com/user-attachments/assets/19278291-4813-4ced-a9ee-091c32babc64">
+
+source :- VLSI System Design
+
+
+
+
+
+
+
+
+
 
