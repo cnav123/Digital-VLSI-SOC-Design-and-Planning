@@ -46,6 +46,7 @@ run_routing
 
 also type the magic command to check the output
 
+<img width="934" alt="Screenshot 2024-08-09 at 2 42 31 PM" src="https://github.com/user-attachments/assets/368caca0-97b3-4f7c-9a88-8fc71d288a17">
 
 
 ## Now post STA analysis
